@@ -14,6 +14,12 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <p>
+        Copyright by &nbsp;  
+        <a href="https://wanderson.ga/">
+          Wanderson A. Timóteo
+        </a>
+      </p>
     </FooterBase>
   );
 }
