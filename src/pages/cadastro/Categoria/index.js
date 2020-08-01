@@ -48,7 +48,7 @@ function CadastroCategoria() {
 
         <FormField
           label="Nome da Categoria"
-          //type="text"
+          // type="text"
           name="nome"
           value={values.nome}
           onChange={handleChange}
@@ -94,9 +94,9 @@ function CadastroCategoria() {
             </label>
           </div> */}
 
-        <Button>
+        <button>
           Cadastrar
-        </Button>
+        </button>
       </form>
 
       <ul>
