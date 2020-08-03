@@ -15,7 +15,7 @@ function Footer() {
         </a>
       </p>
       <p>
-        Copyright by &nbsp;  
+        Copyright by &nbsp;
         <a href="https://wanderson.ga/">
           Wanderson A. Timóteo
         </a>
