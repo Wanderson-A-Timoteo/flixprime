@@ -2,11 +2,10 @@
     "categorias": [
       {
         "id": 1,
-        "titulo": "Front End",
+        "titulo": "Saga Star Wars",
         "cor": "#6BD1FF",
         "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
+          "text": "Trailler de todos os filmes Star Wars"
         }
       },
       {
@@ -46,143 +45,185 @@
       {
         "id": 1,
         "categoriaId": 1,
-        "titulo": "SEO com React",
-        "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        "titulo": "Star Wars",
+        "url": "https://www.youtube.com/watch?v=T9-SJ6ikuj0&t=3s"
       },
       {
         "id": 2,
         "categoriaId": 1,
-        "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        "titulo": "Star Wars: Episódio 1 - Ameaça Fantasma (1999)",
+        "url": "https://www.youtube.com/watch?v=Fn06DhtXshk"
       },
       {
         "id": 3,
         "categoriaId": 1,
-        "titulo": "Componentização com VanillaJS #AluraMais",
-        "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        "titulo": "Star Wars: Episódio 2 - Ataque dos Clones (2002)",
+        "url": "https://www.youtube.com/watch?v=BSM3KElM970"
       },
       {
         "id": 4,
         "categoriaId": 1,
-        "titulo": "Pare de chutar e aprenda a display: inline #01",
-        "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        "titulo": "Star Wars: Episódio 3 - A Vingança dos Sith (2005)",
+        "url": "https://www.youtube.com/watch?v=zReLT0cdM8s"
       },
       {
         "id": 5,
         "categoriaId": 1,
-        "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-        "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        "titulo": "Star Wars: Episódio 4 - Uma Nova Esperança (1977)",
+        "url": "https://www.youtube.com/watch?v=MU4KRmJ7Yl0"
       },
       {
         "id": 6,
         "categoriaId": 1,
-        "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        "titulo": "Star Wars: Episódio 5 - O Império Contra-Ataca (1980)",
+        "url": "https://www.youtube.com/watch?v=zcHZNn1v2lw"
       },
       {
         "id": 7,
         "categoriaId": 1,
-        "titulo": "Novidades do Angular v9",
-        "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        "titulo": "Star Wars: Episódio 6 - O Retorno de Jedi (1983)",
+        "url": "https://www.youtube.com/watch?v=niLE49Fi4_w"
       },
       {
         "id": 8,
+        "categoriaId": 1,
+        "titulo": "Star Wars: Episódio 7 - O Despertar da Força (2015)",
+        "url": "https://www.youtube.com/watch?v=2SXkyddwkLk"
+      },
+      {
+        "id": 9,
+        "categoriaId": 1,
+        "titulo": "Star Wars: Episódio 8 - Os Últimos Jedi (2017)",
+        "url": "https://www.youtube.com/watch?v=VfIDxMsq8rA"
+      },
+      {
+        "id": 10,
+        "categoriaId": 1,
+        "titulo": "Star Wars: Episódio 9 - A Ascensão Skywalker (2019)",
+        "url": "https://www.youtube.com/watch?v=Nt9WgFYo6aA"
+      },
+      {
+        "id": 11,
+        "categoriaId": 1,
+        "titulo": "Rogue One: Uma História Star Wars (2016)",
+        "url": "https://www.youtube.com/watch?v=sUvBBrSVtBM"
+      },
+      {
+        "id": 12,
+        "categoriaId": 1,
+        "titulo": "Han Solo: Uma História Star Wars (2018)",
+        "url": "https://www.youtube.com/watch?v=43LBMdwVQtA"
+      },
+      {
+        "id": 13,
         "categoriaId": 2,
         "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
         "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
       },
       {
-        "id": 9,
+        "id": 14,
         "categoriaId": 2,
         "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
         "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
       },
       {
-        "id": 10,
+        "id": 15,
         "categoriaId": 2,
         "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
         "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
       },
       {
-        "id": 11,
+        "id": 16,
         "categoriaId": 2,
         "titulo": "API: Dicionário do Programador",
         "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
       },
       {
-        "id": 12,
+        "id": 17,
         "categoriaId": 2,
         "titulo": "Usando Git Direito",
         "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
       },
       {
-        "id": 13,
+        "id": 18,
         "categoriaId": 3,
         "titulo": "Teste de Turing",
         "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
       },
       {
-        "id": 14,
+        "id": 19,
         "categoriaId": 3,
         "titulo": "O que é Data Science?",
         "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
       },
       {
-        "id": 15,
+        "id": 20,
         "categoriaId": 3,
         "titulo": "Melhor forma de aprender Python",
         "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
       },
       {
-        "id": 16,
+        "id": 21,
         "categoriaId": 3,
         "titulo": "Como ingressar no mercado de Data Science?",
         "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
       },
       {
-        "id": 17,
+        "id": 22,
         "categoriaId": 4,
         "titulo": "Interestellar",
         "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
       },
       {
-        "id": 18,
+        "id": 23,
         "categoriaId": 4,
-        "titulo": "Gattaca",
-        "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        "titulo": "Star Trek: Renegades",
+        "url": "https://www.youtube.com/watch?v=eE2Wgop9VLM&list=PLTViqRKRAcJ8pxxqeXKI8Ed7wqSKN_lSL&index=2"
       },
       {
-        "id": 19,
+        "id": 24,
         "categoriaId": 4,
-        "titulo": "A Chegada",
-        "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        "titulo": "Star Trek: Of Gods and Men",
+        "url": "https://www.youtube.com/watch?v=kFqAME7dx58&list=PLTViqRKRAcJ8pxxqeXKI8Ed7wqSKN_lSL&index=3"
       },
       {
-        "id": 20,
+        "id": 25,
         "categoriaId": 4,
-        "titulo": "Feitiço do Tempo",
-        "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        "titulo": "Star Trek: Horizon",
+        "url": "https://www.youtube.com/watch?v=l94v4YOqxOc&list=PLTViqRKRAcJ8pxxqeXKI8Ed7wqSKN_lSL&index=1"
       },
       {
-        "id": 21,
+        "id": 26,
+        "categoriaId": 4,
+        "titulo": "Star Trek: Odyssey",
+        "url": "https://www.youtube.com/watch?v=H-WQs-fxqg8&list=PLTViqRKRAcJ8pxxqeXKI8Ed7wqSKN_lSL&index=17"
+      },
+      {
+        "id": 27,
+        "categoriaId": 4,
+        "titulo": "Star Trek The Final Darkness",
+        "url": "https://www.youtube.com/watch?v=qSq4OfrDONg&list=PLTViqRKRAcJ8pxxqeXKI8Ed7wqSKN_lSL&index=9"
+      },
+      {
+        "id": 28,
         "categoriaId": 5,
         "titulo": "Final Fantasy 7",
         "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
       },
       {
-        "id": 22,
+        "id": 29,
         "categoriaId": 5,
         "titulo": "Assassins Creed Valhalla",
         "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
       },
       {
-        "id": 23,
+        "id": 30,
         "categoriaId": 5,
         "titulo": "God of War 4",
         "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
       },
       {
-        "id": 24,
+        "id": 31,
         "categoriaId": 5,
         "titulo": "Resident Evil 8",
         "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
