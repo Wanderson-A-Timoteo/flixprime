@@ -1,68 +1,127 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="FlixPrime" title="FlixPrime" src=".github/logo.PNG" />
+</h1>
 
-## Available Scripts
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-executar aplicação">Executar Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
 
-### `yarn start`
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+</p>
+<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Projeto
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+O projeto foi desenvolvido durante a semana DevSuperior 2.0. <br>
+Esta aplicação chama-se DS Delivery, consiste em um sistema em que clientes podem fazer pedidos para entrega💜
 
-### `yarn test`
+<br>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prévia vizualização do sistema
 
-### `yarn build`
+<p align="center">
+    <img alt="DS Delivery" title="DS Delivery" src=".github/flixprime.gif" />
+</p>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Para asistir ao video acesse:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+[![FLIXPRIME](http://img.youtube.com/vi/EjWxV1RdEcY/0.jpg)](http://www.youtube.com/watch?v=EjWxV1RdEcY "FLIXPRIME")
+---
+<BR>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Tecnologias
 
-### `yarn eject`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Node.js](https://nodejs.org/en/)
+- [Heroku](https://www.heroku.com/)
+- [React.js](https://reactjs.org/)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS3](https://www.tutorialspoint.com/css/css3_tutorial.htm)
+- [Freenom](http://www.freenom.com/pt/index.html)
+- [Figma](https://www.figma.com/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Design do projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Figma](https://www.figma.com/file/BwvjqgBQuOM2FL0L5jGIaB/AluraFlix?node-id=181%3A10)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Executar Aplicação
 
-### Code Splitting
+## 🔥 Executando Localmente a Aplicação
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
-### Analyzing the Bundle Size
+### 🌀 Começando...
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
 
-### Making a Progressive Web App
+#### ❗️ Instalando as Dependências (via Windows):
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Abre o cmd (caso esteja utilizando o Windows) navegue até o local onde você clonou o projeto
 
-### Advanced Configuration
+```
+cd "C:\Users\NomeDoComputador\Documents\clonedoprojeto"
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Depois, quando estiver na pasta do projeto, basta acessar o projeto na pasta `flixprime` digitar no cmd a seguinte instrução: **(dentro da pasta `flixprime` do projeto clonado)**
 
-### Deployment
+```
+> npm install
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
 
-### `yarn build` fails to minify
+- `node_modules` - que contêm os packages do npm que precisará para o projeto.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#### 💨 Executando a Aplicação
+
+Bom, agora **(dentro da pasta `flixprime` do projeto clonado)** abra um terminal para o projeto ser executado e digite:
+
+```
+npm start
+```
+
+Pronto! dessa forma o projeto estará rodando localmente em sua maquina, acesse:
+```
+http://localhost:3000
+```
+<br>
+
+### 🚩 Tenho Dúvidas... O que fazer?
+
+Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/dsdeliver-sds2/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
+
+---
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+## Autor:
+
+Feito com ♥ by
+
+-  [**Wanderson A. Timóteo**](https://wanderson.ga)
+
+## Agradecimentos:
+
+<h1 align="center">
+    <img alt="Alura Cursos" title="Alura Cursos" src=".github/alura.png" />
+</h1>
+
+- Projeto desenvolvido durante a Semana [Imersão React Alura](https://www.alura.com.br/).
+
+- Agradecimento a [Mario Souto, Ju Negreiros e Marco Bruno](https://github.com/alura-cursos) por compartilhar conteúdo relevante e com qualidade de ensino.
