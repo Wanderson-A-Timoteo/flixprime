@@ -41,6 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Heroku](https://www.heroku.com/)
+- [Vercel](https://vercel.com/)
 - [React.js](https://reactjs.org/)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://www.tutorialspoint.com/css/css3_tutorial.htm)
