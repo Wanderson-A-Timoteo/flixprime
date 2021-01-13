@@ -18,8 +18,12 @@
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido durante a semana DevSuperior 2.0. <br>
-Esta aplicação chama-se DS Delivery, consiste em um sistema em que clientes podem fazer pedidos para entrega💜
+O projeto foi desenvolvido durante a semana Imersão React Alura. <br>
+Esta aplicação chama-se Flixprime, consiste em um sistema clone do Netflix em que podemos cadastrar uma categoria, cadastrar um filme e torna-lo disponível para acesso.
+O banckend foi hospedado no Heroku e o frontend na Vercel com apontamento para o dominio gratuíto da Freenom em https://flixprime.ga 💜
+
+## Acessar o domínio do projeto
+- [FLIXPRIME](https://flixprime.ga/)
 
 <br>
 
